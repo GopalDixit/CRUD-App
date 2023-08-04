@@ -1,0 +1,18 @@
+CRUD-App:-
+
+TECHNOLOGIES USED :-
+		REACT
+		PRIMITIVE UI
+		SWEETALERT2
+
+Primitive UI :
+A front-end design toolkit built with Sass for developing responsive web apps. Primitive also provides helpful, browser-consistent styling for default HTML elements - buttons, forms, tables, lists, and typography.
+
+Sweet Alert :
+It is used to make an alert box more attractive and easier to design.REPLACEMENT FOR JAVASCRIPT'S POPUP BOXES ZERO DEPENDENCIES(external libraries)
+
+Script		Description
+npm start	Runs the app in the development mode.
+npm test	Launches the test runner in the interactive watch mode.
+npm run build	Builds the app for production to the build folder.
+npm run eject	This command will remove the single build dependency from your project.
